@@ -1,8 +1,7 @@
 <?php
 
-/* 
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
-
+define($MYSQL_HOST, "172.17.0.2");
+define($MYSQL_PORT, "3306");
+define($MYSQL_USER, "root");
+define($MYSQL_PASS, "root");
+define($MYSQL_DB, "product");
